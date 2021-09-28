@@ -38,3 +38,9 @@ Account ID
 ```text
 Account ID is displayed on the pop-up when setting up the API credentials 
 ```
+
+Replace the placeholder credentials in the script with the credentials from the console on the last line of the script, then run 
+
+```commandline
+python3 script.py
+```

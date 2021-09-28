@@ -96,4 +96,4 @@ if __name__ == '__main__':
     # New credentials can be obtained from here
     # https://docs.mparticle.com/developers/credential-management#creating-new-credentials;
     # account ID is displayed on the pop-up when setting up the credentials
-    fetch_jwt_token(client_id='client_id', client_secret='client_secret', account_id='test')
+    fetch_jwt_token(client_id='client_id', client_secret='client_secret', account_id=1234)

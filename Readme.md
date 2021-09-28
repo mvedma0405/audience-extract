@@ -17,7 +17,7 @@ step-by-step instructions to get you up and running
 Git clone
 
 ```text
-Replace with Git URL
+https://github.com/mvedma0405/audience-extract.git
 ```
 
 Install the requirements 
